@@ -1,7 +1,8 @@
 {
   "name": "mybis",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "ionic1",
   "watchPatterns": [

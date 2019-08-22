@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "An Ionic project",
   "devDependencies": {
+    "@capacitor/cli": "1.1.1",
     "@ionic/app-scripts": "^3.2.4",
     "@ionic/lab": "1.0.5",
     "@ionic/v1-toolkit": "1.0.0",
@@ -12,6 +13,7 @@
     "gulp-sass": "^3.1.0"
   },
   "dependencies": {
+    "@capacitor/core": "1.1.1",
     "@ionic/pro": "2.0.3",
     "cordova-plugin-ionic": "^5.0.5",
     "natives": "^1.1.6"
